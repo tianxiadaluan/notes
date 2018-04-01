@@ -1,10 +1,4 @@
 # webpack package.json介绍
-这是一个普通段落。
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-
-这是另一个普通段落。
+##### 阮一峰说：
+[阮一峰说package.json]('http://javascript.ruanyifeng.com/nodejs/packagejson.html'){:target='_blank'}
